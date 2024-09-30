@@ -5,7 +5,7 @@ MOAMOA는 <b>전국의 숨겨진 축제와 독특한 체험</b>을 발견할 수
 
 MOAMOA 사용자들은 축제 또는 체험을 홍보할 수 있습니다. 회원 가입 단계에서 기업 및 기관을 선택하여 가입하면 상품 등록 권한이 생깁니다. <b>행사 운영진</b>은 직접 행사 정보를 게시할 수 있으며, <b>일반 회원</b>은 다양한 축제 소식과 참여 방법을 쉽게 접할 수 있습니다.
 
- ## [🚀 배포 URL](https://frontendschool7.github.io/final-18-moamoa/home)
+ ## [🚀 배포 URL(서버 종료)](https://frontendschool7.github.io/final-18-moamoa/home)
 
 ```
 테스트 계정 (관리자 ID)
